@@ -1,0 +1,10 @@
+let admin;
+let name;
+name = "Beibit";
+admin = name;
+console.log(admin);
+let planetName;
+let currentUserName ;
+planetName = "Earth";
+currentUserName = "Imekeev";
+console.log(planetName , currentUserName);
